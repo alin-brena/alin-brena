@@ -2,7 +2,7 @@
 # ¡Hola, soy Alin! 👋
 
 ## Sobre mí🌈
-👩🏻‍💻 Soy **QA manual Ssr**, actualmente entrando en el mundo de la automatización. Me apasiona la excelencia y la calidad en el testeo de software, y sobre todo, el constante aprendizaje que esta tarea conlleva. He llevado a cabo con éxito la implementación de casos de prueba complejos y he mejorado significativamente la eficiencia del proceso de testeo en mis proyectos anteriores. 
+👩🏻‍💻 Soy **QA manual Ssr**, actualmente entrando en el mundo de la automatización y la programación. Me apasiona la excelencia y la calidad en el testeo de software, y sobre todo, el constante aprendizaje que esta tarea conlleva. He llevado a cabo con éxito la implementación de casos de prueba complejos y he mejorado significativamente la eficiencia del proceso de testeo en mis proyectos anteriores. 
 Mi objetivo profesional es desarrollar una perspectiva interdisciplinaria que me permita adquirir un conocimiento más amplio y profundo en el ámbito de la tecnología. 
 
 
